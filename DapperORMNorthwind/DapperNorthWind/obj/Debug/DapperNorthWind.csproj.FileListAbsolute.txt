@@ -1,0 +1,16 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\bin\Debug\DapperNorthWind.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\bin\Debug\DapperNorthWind.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\bin\Debug\DapperNorthWind.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\bin\Debug\Dapper.dll
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\bin\Debug\Dapper.xml
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\obj\Debug\DapperNorthWind.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\obj\Debug\DapperNorthWind.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\DapperProject\DapperNorthWind\obj\Debug\DapperNorthWind.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\bin\Debug\DapperNorthWind.exe.config
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\obj\Debug\DapperNorthWind.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\obj\Debug\DapperNorthWind.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\bin\Debug\DapperNorthWind.exe
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\bin\Debug\DapperNorthWind.pdb
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\bin\Debug\Dapper.dll
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\bin\Debug\Dapper.xml
+C:\Users\Toshiba\Documents\Visual Studio 2015\Projects\DapperORMNorthwind\DapperNorthWind\obj\Debug\DapperNorthWind.csprojResolveAssemblyReference.cache
